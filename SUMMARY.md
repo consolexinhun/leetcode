@@ -18,6 +18,7 @@
   * [1109.航班预定统计](yi-xiang-bu-dao/untitled.md)
 * [树](shu/README.md)
   * [0094.二叉树的中序遍历](shu/untitled-3.md)
+  * [0101.对称二叉树](shu/0101.-dui-cheng-er-cha-shu.md)
   * [0102.二叉树层序遍历](shu/untitled-2.md)
   * [0104.二叉树的最大深度](shu/untitled-1-1.md)
   * [0105.先序中序遍历构造二叉树](shu/0105.-xian-xu-zhong-xu-bian-li-gou-zao-er-cha-shu.md)
@@ -39,4 +40,6 @@
   * [0583.两个字符串删除](dong-tai-gui-hua/0583.-liang-ge-zi-fu-chuan-shan-chu.md)
   * [0712.两个字符串的最小ASCII删除和](dong-tai-gui-hua/0712.-liang-ge-zi-fu-chuan-de-zui-xiao-ascii-shan-chu-he.md)
   * [1143.最长公共子串](dong-tai-gui-hua/1143.-zui-chang-gong-gong-zi-chuan.md)
+* [C++基础](c++-ji-chu/README.md)
+  * [1030.距离顺序排列矩阵单元格](c++-ji-chu/1030.-ju-li-shun-xu-pai-lie-ju-zhen-dan-yuan-ge.md)
 
