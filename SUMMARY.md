@@ -57,4 +57,6 @@
   * [0452.用最少数量的箭引爆气球](tan-xin/0452.-yong-zui-shao-shu-liang-de-jian-yin-bao-qi-qiu.md)
   * [0763.划分字母区间](tan-xin/0763.-hua-fen-zi-mu-qu-jian.md)
   * [1288.删除被覆盖区间](tan-xin/1288.-shan-chu-bei-fu-gai-qu-jian.md)
+* [栈和队列](zhan-he-dui-lie/README.md)
+  * [0496.下一个更大的元素](zhan-he-dui-lie/0496.-xia-yi-ge-geng-da-de-yuan-su.md)
 
