@@ -59,5 +59,6 @@
   * [1288.删除被覆盖区间](tan-xin/1288.-shan-chu-bei-fu-gai-qu-jian.md)
 * [栈和队列](zhan-he-dui-lie/README.md)
   * [0496.下一个更大的元素](zhan-he-dui-lie/0496.-xia-yi-ge-geng-da-de-yuan-su.md)
+  * [0503.下一个更大的元素二](zhan-he-dui-lie/0503.-xia-yi-ge-geng-da-de-yuan-su-er.md)
   * [0739.每日温度](zhan-he-dui-lie/0739.-mei-ri-wen-du.md)
 
