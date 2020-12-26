@@ -59,6 +59,7 @@
   * [0763.划分字母区间](tan-xin/0763.-hua-fen-zi-mu-qu-jian.md)
   * [1288.删除被覆盖区间](tan-xin/1288.-shan-chu-bei-fu-gai-qu-jian.md)
 * [栈和队列](zhan-he-dui-lie/README.md)
+  * [0239.滑动窗口最大值](zhan-he-dui-lie/0239.-hua-dong-chuang-kou-zui-da-zhi.md)
   * [0496.下一个更大的元素](zhan-he-dui-lie/0496.-xia-yi-ge-geng-da-de-yuan-su.md)
   * [0503.下一个更大的元素二](zhan-he-dui-lie/0503.-xia-yi-ge-geng-da-de-yuan-su-er.md)
   * [0739.每日温度](zhan-he-dui-lie/0739.-mei-ri-wen-du.md)
