@@ -63,4 +63,5 @@
   * [0496.下一个更大的元素](zhan-he-dui-lie/0496.-xia-yi-ge-geng-da-de-yuan-su.md)
   * [0503.下一个更大的元素二](zhan-he-dui-lie/0503.-xia-yi-ge-geng-da-de-yuan-su-er.md)
   * [0739.每日温度](zhan-he-dui-lie/0739.-mei-ri-wen-du.md)
+  * [剑指Offer59.队列的最大值](zhan-he-dui-lie/jian-zhi-offer59.-dui-lie-de-zui-da-zhi.md)
 
