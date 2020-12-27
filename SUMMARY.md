@@ -12,6 +12,7 @@
   * [0051.N皇后](hui-su/0051n-huang-hou.md)
   * [0077.组合](hui-su/0077.-zu-he.md)
   * [0078.子集](hui-su/0078.-zi-ji.md)
+  * [0079.单词搜索](hui-su/0079.-dan-ci-sou-suo.md)
   * [0090.子集二](hui-su/0090.-zi-ji-er.md)
   * [0200.岛屿的数量](hui-su/0200.-dao-yu-de-shu-liang.md)
   * [0417.太平洋大西洋水流问题](hui-su/0417.-tai-ping-yang-da-xi-yang-shui-liu-wen-ti.md)
