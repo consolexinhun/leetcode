@@ -14,6 +14,7 @@
   * [0078.子集](hui-su/0078.-zi-ji.md)
   * [0079.单词搜索](hui-su/0079.-dan-ci-sou-suo.md)
   * [0090.子集二](hui-su/0090.-zi-ji-er.md)
+  * [0130.被围绕的区域](hui-su/0130.-bei-wei-rao-de-qu-yu.md)
   * [0200.岛屿的数量](hui-su/0200.-dao-yu-de-shu-liang.md)
   * [0257.二叉树的所有路径](hui-su/0257.-er-cha-shu-de-suo-you-lu-jing.md)
   * [0417.太平洋大西洋水流问题](hui-su/0417.-tai-ping-yang-da-xi-yang-shui-liu-wen-ti.md)
