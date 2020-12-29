@@ -1,8 +1,6 @@
 # Table of contents
 
 * [C++ LeetCode](README.md)
-* [递归](di-gui/README.md)
-  * [0509.斐波那契](di-gui/untitled.md)
 * [搜索](hui-su/README.md)
   * [模板](hui-su/mo-ban.md)
   * [0017.电话号码的组合](hui-su/0017.-dian-hua-hao-ma-de-zu-he.md)
