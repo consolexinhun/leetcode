@@ -52,6 +52,7 @@
   * [0213.打家劫舍二](dong-tai-gui-hua/0213.-da-jia-jie-she-er.md)
   * [0221.最大正方形](dong-tai-gui-hua/0221.-zui-da-zheng-fang-xing.md)
   * [0279.完全平方数](dong-tai-gui-hua/0279.-wan-quan-ping-fang-shu.md)
+  * [0300.最长递增子序列](dong-tai-gui-hua/0300.-zui-chang-di-zeng-zi-xu-lie.md)
   * [0322.零钱兑换](dong-tai-gui-hua/0322.-ling-qian-dui-huan.md)
   * [0337.打家劫舍三](dong-tai-gui-hua/0337.-da-jia-jie-she-san.md)
   * [0413.等差数列划分](dong-tai-gui-hua/0413.-deng-cha-shu-lie-hua-fen.md)
