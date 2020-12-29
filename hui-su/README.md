@@ -1,6 +1,6 @@
 ---
-description: DFS
+description: DFS和BFS
 ---
 
-# 回溯
+# 搜索
 
