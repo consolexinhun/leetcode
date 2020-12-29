@@ -44,6 +44,7 @@
   * [0206.反转链表](lian-biao/0206.-fan-zhuan-lian-biao.md)
 * [动态规划](dong-tai-gui-hua/README.md)
   * [0053.最大连续子序列和](dong-tai-gui-hua/0053.-zui-da-lian-xu-zi-xu-lie-he.md)
+  * [0064.最小路径和](dong-tai-gui-hua/0064.-zui-xiao-lu-jing-he.md)
   * [0072.编辑距离](dong-tai-gui-hua/0072.-bian-ji-ju-li.md)
   * [0121.买卖股票最佳时机](dong-tai-gui-hua/0121.-mai-mai-gu-piao-zui-jia-shi-ji.md)
   * [0198.打家劫舍](dong-tai-gui-hua/0198.-da-jia-jie-she.md)
