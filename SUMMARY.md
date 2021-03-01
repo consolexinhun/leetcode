@@ -41,6 +41,7 @@
   * [0617.合并二叉树](shu/0617.-he-bing-er-cha-shu.md)
   * [0654.最大二叉树](shu/0654.-zui-da-er-cha-shu.md)
 * [链表](lian-biao/README.md)
+  * [判断链表是否有环](lian-biao/pan-duan-lian-biao-shi-fou-you-huan.md)
   * [0206.反转链表](lian-biao/0206.-fan-zhuan-lian-biao.md)
 * [动态规划](dong-tai-gui-hua/README.md)
   * [0053.最大连续子序列和](dong-tai-gui-hua/0053.-zui-da-lian-xu-zi-xu-lie-he.md)
