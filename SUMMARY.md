@@ -62,6 +62,7 @@
   * [0712.两个字符串的最小ASCII删除和](dong-tai-gui-hua/0712.-liang-ge-zi-fu-chuan-de-zui-xiao-ascii-shan-chu-he.md)
   * [1143.最长公共子串](dong-tai-gui-hua/1143.-zui-chang-gong-gong-zi-chuan.md)
 * [C++基础](c++-ji-chu/README.md)
+  * [二分](c++-ji-chu/er-fen.md)
   * [归并排序](c++-ji-chu/gui-bing-pai-xu.md)
   * [0347.前k个高频元素](c++-ji-chu/0347.-qiankge-gao-pin-yuan-su.md)
   * [0451.根据字符出现频率排序](c++-ji-chu/0451.-gen-ju-zi-fu-chu-xian-pin-lv-pai-xu.md)
