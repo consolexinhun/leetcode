@@ -1,5 +1,11 @@
 # 归并排序
 
+{% hint style="info" %}
+注意：这是左闭右开区间，\[left, right\]
+
+所以merge函数，如果r = l+1，那么只有l一个元素，直接跳出
+{% endhint %}
+
 ```cpp
 class Solution {
 public:
