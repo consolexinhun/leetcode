@@ -24,7 +24,7 @@
   * [0141.环形链表一](shuang-zhi-zhen/0141.-huan-xing-lian-biao-yi.md)
   * [0142.环形链表二](shuang-zhi-zhen/0142.-huan-xing-lian-biao-er.md)
   * [0349.两个数组的交集](shuang-zhi-zhen/untitled.md)
-* [前缀和](yi-xiang-bu-dao/README.md)
+* [技巧](yi-xiang-bu-dao/README.md)
   * [1109.航班预定统计](yi-xiang-bu-dao/untitled.md)
 * [树](shu/README.md)
   * [0094.二叉树的中序遍历](shu/untitled-3.md)
