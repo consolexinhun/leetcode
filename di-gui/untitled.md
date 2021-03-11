@@ -70,5 +70,3 @@ public:
 
 {% page-ref page="../" %}
 
-
-
