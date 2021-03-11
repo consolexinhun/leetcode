@@ -63,7 +63,6 @@
   * [1143.最长公共子串](dong-tai-gui-hua/1143.-zui-chang-gong-gong-zi-chuan.md)
 * [C++基础](c++-ji-chu/README.md)
   * [快排](c++-ji-chu/kuai-pai.md)
-  * [二分](c++-ji-chu/er-fen.md)
   * [归并排序](c++-ji-chu/gui-bing-pai-xu.md)
   * [0347.前k个高频元素](c++-ji-chu/0347.-qiankge-gao-pin-yuan-su.md)
   * [0451.根据字符出现频率排序](c++-ji-chu/0451.-gen-ju-zi-fu-chu-xian-pin-lv-pai-xu.md)
@@ -83,4 +82,5 @@
   * [0503.下一个更大的元素二](zhan-he-dui-lie/0503.-xia-yi-ge-geng-da-de-yuan-su-er.md)
   * [0739.每日温度](zhan-he-dui-lie/0739.-mei-ri-wen-du.md)
   * [剑指Offer59.队列的最大值](zhan-he-dui-lie/jian-zhi-offer59.-dui-lie-de-zui-da-zhi.md)
+* [二分](er-fen.md)
 
